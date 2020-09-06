@@ -4,6 +4,18 @@
 
 .idea/
 .idea/*
+.idea/inspectionProfiles/
+.idea/leetcode/
+.idea/shelf/
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/coding-exercise.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -132,16 +144,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-/.idea/
-/.idea/inspectionProfiles/
-/.idea/leetcode/
-/.idea/shelf/
-/.idea/$CACHE_FILE$
-/.idea/.gitignore
-/.idea/coding-exercise.iml
-/.idea/encodings.xml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/.idea/workspace.xml
